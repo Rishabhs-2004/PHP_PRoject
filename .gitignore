@@ -1,0 +1,40 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files (optional - remove if you want to include sample images)
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.gif
+!uploads/default.jpg
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache files
+cache/
+tmp/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
